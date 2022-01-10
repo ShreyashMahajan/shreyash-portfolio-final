@@ -38,6 +38,12 @@ body {
      margin: 2rem 2rem;
 }
 
+.section-mainbox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 .white {
     background-color: white;
 
